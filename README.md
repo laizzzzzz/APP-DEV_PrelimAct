@@ -23,6 +23,6 @@ Contributions are welcome! Please feel free to add any suggestions or update on 
 ## License
 This project is licensed under 'MY NAME'.
 
-## Acknowledgments
+## Acknowledgments of Libraries
 - Thanks to VS CODE, PYTHON, GITHUB for their awesome functionality. HEHE
 😊😅
